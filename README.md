@@ -9,6 +9,7 @@ Server: Web Server Gateway Interface(WSGI) to host Python Server
 Languages Used: HTML, CSS for web page structure, Python
 
 ## Functions
+
 ###Search By Player NAme
 
 ###Search by Draft Year
