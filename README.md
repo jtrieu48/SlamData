@@ -1,5 +1,5 @@
 # SlamData
-<img src="https://seuladogeek.com.br/wp-content/uploads/2022/02/NBA-logo-download-800x450.png" width="700" height="300">
+<img src="https://seuladogeek.com.br/wp-content/uploads/2022/02/NBA-logo-download-800x450.png" width="700" height="400">
 
 
 
