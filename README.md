@@ -17,19 +17,9 @@ Languages Used: HTML, CSS for web page structure, Python
 ## Functions
 
 <img src="https://imgur.com/AwYIhWX.png" width="600" height="300">
+Search By Player Name, Draft Year, or Season
 
-### Search By Player Name
-Searches and retrieves data from CSV file based on player name, including all played seasons in player's career 
-
-### Search by Draft Year
-Search and retrieves data based on player's draft year
-
-### Search by Season
-Search and retrieves data based on game season
-
-### Add Player
-Allows for new entries of existing and new players.
-User is prompted to fill in all of player's information: Name, Season, Draft, etc.
+Add New Players
 
 ## Additional Complexities
 
