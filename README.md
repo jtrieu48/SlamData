@@ -16,7 +16,7 @@ Languages Used: HTML, CSS for web page structure, Python
 
 ## Functions
 
-<img src="https://imgur.com/a/p7MqGX8.png" width="600" height="300">
+<img src="https://imgur.com/AwYIhWX.png" width="600" height="300">
 
 ### Search By Player Name
 Searches and retrieves data from CSV file based on player name, including all played seasons in player's career 
