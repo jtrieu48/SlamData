@@ -16,8 +16,7 @@ Languages Used: HTML, CSS for web page structure, Python
 
 ## Functions
 
-![Demo Screenshot](https://lh3.googleusercontent.com/keep-bbsk/AAAetVI_-7DBcjZU7T3eP00nRb9kveIKvYUCiyEelMLaupnpQrQAHSbuS7Gk-uiVMFZ2olj-Ova9mzIL8-dLcIflWGDZuL0MPxFE7UtbPI7LIyrHBgSM=s1690)
-<img src="https://lh3.googleusercontent.com/keep-bbsk/AAAetVI_-7DBcjZU7T3eP00nRb9kveIKvYUCiyEelMLaupnpQrQAHSbuS7Gk-uiVMFZ2olj-Ova9mzIL8-dLcIflWGDZuL0MPxFE7UtbPI7LIyrHBgSM=s1690" width="100" height="50">
+![Demo Screenshot](F:\Photos\Github\nba)
 
 ### Search By Player Name
 Searches and retrieves data from CSV file based on player name, including all played seasons in player's career 
