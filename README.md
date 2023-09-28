@@ -31,3 +31,7 @@ Languages Used: HTML, CSS for web page structure, Python
 - Sequential Search
 
     - Sequential Search was implemented to cut down on search-time including by player name, draft year, or season.
+
+## Demo
+
+![image](https://github.com/jtrieu48/SlamData/assets/77050179/1c78c021-9e1d-4ee9-b334-656d8c0bb207)
