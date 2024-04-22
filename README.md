@@ -22,11 +22,11 @@ Call ``$ python server.py`` inside your terminal to boot server
 
 ### Get Average Rating
 
-This is a custom metric made to compile average rating of a draft round within a season
+This is a custom metric made to compile average rating of a draft round within a season. Dot graph of draft round is available here.
 
 ### Calculate Net Rating
 
-This is a custom metric made to compare relative skill of players. Calculated using a player's total points, rebounds, and assists in the dataset. A new CSV file is created and filled to store these comparisons.
+This is a custom metric made to compare relative skill of players. Calculated using a player's total points, rebounds, and assists in the dataset. A new CSV file is created and filled to store these comparisons. Bar graph of net rating is avaiable here.
 
 ### Sequential Search
 
