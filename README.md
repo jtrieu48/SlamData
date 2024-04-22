@@ -1,6 +1,6 @@
 # SlamData
 
-![NBA Logo](/img/NBA_Logo.png)
+![NBA Logo](/imgs/NBA_Logo.png)
 
 ## Description
 
