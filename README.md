@@ -1,6 +1,6 @@
 # SlamData
 
-<img src="/imgs/NBA_Logo.png" alt="drawing" width="200"/>
+<img src="/imgs/NBA_Logo.png" alt="drawing" width="500"/>
 
 
 ## Description
