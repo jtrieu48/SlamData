@@ -10,13 +10,13 @@ The front end is built with HTML/CSS, Boostrap for interactive pages. The backen
 
 Call ``$ python server.py`` inside your terminal to boot server
 
-- **Search** By Player Name, Draft Year, or Season
+- <u>**Search**</u> By Player Name, Draft Year, or Season
 
-- **Add** New Players
+- <u>**Add**</u> New Players
 
-- **Update** Players
+- <u>**Update**</u> Players
 
-- **Delete** Players
+- <u>**Delete**</u> Players
 
 ## Additional Complexities
 
