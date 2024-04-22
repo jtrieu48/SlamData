@@ -10,7 +10,7 @@ The front end is built with HTML/CSS, Boostrap for interactive pages. The backen
 
 ### Run Server
 
-Call ``python server.py`` inside your terminal to boot server
+Call ``$ python server.py`` inside your terminal to boot server
 
 - ``Search`` By Player Name, Draft Year, or Season
 
