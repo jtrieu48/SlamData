@@ -35,4 +35,4 @@ Languages Used: HTML, CSS for web page structure, Python
 
 ## Demo
 
-<img src="https://github.com/jtrieu48/SlamData/assets/77050179/1c78c021-9e1d-4ee9-b334-656d8c0bb207" width="600" height="300">
+[SlamData Demo](https://youtu.be/40ZgcllCeBA?si=hCknt76cwsL7Jlt-)
